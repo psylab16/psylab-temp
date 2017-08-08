@@ -2,7 +2,7 @@
 
 Christopher A. Brown, PhD\
 Department of Communication Science and Disorders\
-University of Pittsburgh\
+University of Pittsburgh
 
 ### Research
 Research in the Psychoacoustics Laboratory is concerned mostly with the way in which the auditory system 
