@@ -1,10 +1,8 @@
 ## PSYLAB (Psychoacoustics Laboratory)
 
-Christopher A. Brown, PhD
-
-Department of Communication Science and Disorders
-
-University of Pittsburgh
+Christopher A. Brown, PhD\
+Department of Communication Science and Disorders\
+University of Pittsburgh\
 
 ### Research
 Research in the Psychoacoustics Laboratory is concerned mostly with the way in which the auditory system 
@@ -24,10 +22,7 @@ individuals.
 ### [CV](http://www.shrs.pitt.edu/sites/default/files/Brown_CV.pdf)
 
 ### Contact
-5056 Forbes Tower
-
-Pittsburgh, PA 15206
-
-cbrown1@pitt.edu
-
-412-383-6546
+5056 Forbes Tower\
+Pittsburgh, PA 15206\
+cbrown1@pitt.edu\
+412-383-6546\
